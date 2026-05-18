@@ -1,0 +1,6 @@
+@AntGateBarrier_HostAddress = http://localhost:5007
+
+GET {{AntGateBarrier_HostAddress}}/rfid/
+Accept: application/json
+
+###
